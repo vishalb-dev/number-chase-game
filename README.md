@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Game Preview](https://img.shields.io/badge/Platformth progressive difficulty levels**
+
 
 *Chase the numbers, avoid the obstacles, master all three levels!*
 
